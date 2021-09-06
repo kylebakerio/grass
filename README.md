@@ -10,3 +10,4 @@ https://github.com/mebiusbox/pixy.js
 https://github.com/mrdoob/three.js/issues/11194
 https://doc.babylonjs.com/divingDeeper/materials/using/parallaxMapping
 https://stackoverflow.com/questions/53537234/parallax-effect-using-three-js
+https://stackoverflow.com/questions/44372487/webgl-drawing-2d-image-with-depth-map-to-achieve-pseudo-3d-effect
