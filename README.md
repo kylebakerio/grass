@@ -9,3 +9,4 @@ https://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax_occlusion.ht
 https://github.com/mebiusbox/pixy.js
 https://github.com/mrdoob/three.js/issues/11194
 https://doc.babylonjs.com/divingDeeper/materials/using/parallaxMapping
+https://stackoverflow.com/questions/53537234/parallax-effect-using-three-js
