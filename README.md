@@ -7,3 +7,5 @@ How to make parallax?
 
 https://mebiusbox.github.io/contents/pixyjs/samples/shader_parallax_occlusion.html
 https://github.com/mebiusbox/pixy.js
+https://github.com/mrdoob/three.js/issues/11194
+https://doc.babylonjs.com/divingDeeper/materials/using/parallaxMapping
